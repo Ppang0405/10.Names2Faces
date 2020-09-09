@@ -56,15 +56,23 @@
 		483ECF702508A0570098B5A0 /* 10.Names2Faces */ = {
 			isa = PBXGroup;
 			children = (
-				483ECF712508A0570098B5A0 /* AppDelegate.swift */,
-				483ECF732508A0570098B5A0 /* SceneDelegate.swift */,
+				483ECF852508A0C20098B5A0 /* Support Files */,
 				483ECF752508A0570098B5A0 /* ViewController.swift */,
 				483ECF772508A0570098B5A0 /* Main.storyboard */,
+			);
+			path = 10.Names2Faces;
+			sourceTree = "<group>";
+		};
+		483ECF852508A0C20098B5A0 /* Support Files */ = {
+			isa = PBXGroup;
+			children = (
+				483ECF712508A0570098B5A0 /* AppDelegate.swift */,
+				483ECF732508A0570098B5A0 /* SceneDelegate.swift */,
 				483ECF7A2508A05B0098B5A0 /* Assets.xcassets */,
 				483ECF7C2508A05B0098B5A0 /* LaunchScreen.storyboard */,
 				483ECF7F2508A05B0098B5A0 /* Info.plist */,
 			);
-			path = 10.Names2Faces;
+			name = "Support Files";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
